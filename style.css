@@ -1,0 +1,641 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ body{
+    font-family: "Inter", sans-serif;
+ }
+.container {
+    height: 75px;
+    background-color: #043873;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 50px;
+}
+.iconmenu{
+    font-size: 3rem;
+    margin-left: 9px;
+    position: relative;
+    top: 1px;
+    color: white;
+    display: none;
+}
+.btnbtn1{
+    background-color: #4F9CF9;
+    padding: 16px 24px 16px 24px;
+    color: white;
+    border: 1px solid #4F9CF9;   
+}
+
+.logo {
+    font-size: 28px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+}
+.triit{
+    font-size: 23px;
+    margin-bottom: 10px;
+}
+.icon1{
+   position: relative;
+   top: 3px;
+}
+.header{
+    position: relative;
+    right: 60px;
+}
+.box {
+    display: flex;
+    align-items:center;
+    gap: 30px;
+}
+ul{
+    list-style: none;
+}
+
+.btn1 {
+    background-color: #FFE492;
+    padding: 16px 40px 16px 40px;
+    border: 1px solid #FFE492;
+    right: 10px;
+}
+
+.btn2 {
+    background-color: #4F9CF9;
+    padding: 16px 24px 16px 24px;
+    color: white;
+    border: 1px solid #4F9CF9;
+    margin-top: 86px;
+}
+
+.icon2 {
+    position: relative;
+    top: 3px;
+}
+
+.containersend {
+    height: 470px;
+    background-color: #043873;
+    display: flex;
+    justify-content: center;
+    padding-top: 8rem;
+}
+
+.containersendo {
+    background-color: unset;
+    display: flex;
+    justify-content: center;
+    padding-top: 8rem;
+    gap: 7rem;
+
+}
+
+.boxsenc {
+    height: 350px;
+    width: 580px;
+    background-color: unset;
+    /* margin-right: 90px; */
+    position: relative;
+    bottom: 50px;
+}
+
+.boxsent {
+    height: 380px;
+    width: 550px;
+    background-color: #C4DEFD;
+    position: relative;
+    bottom: 5rem;
+   
+}
+
+.Get {
+    font-size: 55px;
+    font-weight: 700;
+    color: white;
+}
+
+.Get1 {
+    font-size: 64px;
+    font-weight: 700;
+    color: black;
+}
+
+.software {
+    font-size: 15px;
+    font-weight: 400;
+    color: white;
+    margin-top: 21px;
+}
+
+.software1 {
+    font-size: 18px;
+    font-weight: 400;
+    color: black;
+    margin-top: 20px;
+}
+
+.img {
+    height: 400px;
+    width: 400px;
+    /* margin-left: 80px; */
+
+}
+
+.boxsents {
+    height: 500px;
+    width: 550px;
+    background-color: unset;
+    position: relative;
+    bottom: 5rem;
+}
+
+.container11 {
+    height: 87px;
+    background-color: unset;
+    display: flex;
+    justify-content: center;
+
+}
+
+.container22 {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 40px;
+}
+.paragraph7650{
+    font-size: 12px;
+}
+
+.box555 {
+    height: 550px;
+    width: 370px;
+    background-color: unset;
+    margin-top: 20px;
+    padding-left: 40px;
+    line-height: 38px;
+    border: 1px solid #FFE492;
+    border-radius: 10px;
+    padding: 30px;
+}
+
+.container555 {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.btnget {
+    padding: 16px 40px 16px 40px;
+    border: 1px solid #FFE492;
+    background-color: #FFFFFF;
+    border-radius: 8px;
+}
+
+.icon234 {
+    color: #FFE492;
+    font-size: 20px;
+    position: relative;
+    top: 5px;
+    right: 5px;
+}
+
+.free {
+    font-weight: 600;
+    font-size: 24px;
+}
+
+.doler {
+    font-weight: 700;
+    font-size: 36px;
+    color: #FFE492;
+    margin: 15px;
+    position: relative;
+    right: 15px;
+}
+
+.waith {
+    padding-left: 20px;
+}
+
+.Capture {
+    font-weight: 500;
+    font-size: 18px;
+   
+}
+
+.box55c {
+    height: 590px;
+    width: 370px;
+    background-color: #043873;
+    color: white;
+    padding-left: 40px;
+    line-height: 38px;
+    border-radius: 10px;
+    padding: 30px;
+}
+
+.containerff {
+    background-color: #043873;
+    height: 400px;
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+    color: white;
+
+}
+
+.everywhere {
+    font-weight: 700;
+    font-size: 64px;
+    position: relative;
+    top: 22px;
+}
+
+.notes {
+    position: relative;
+    bottom: 16rem;
+    color: white;
+}
+
+.containerfft {
+    display: flex;
+    justify-content: center;
+}
+
+.containerbtn {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 13rem;
+}
+
+.btn89 {
+    padding: 20px 40px 20px 40px;
+    border-radius: 8px;
+    background-color: #4F9CF9;
+    border: 1px solid #4F9CF9;
+    color: white;
+}
+
+.OneDrive {
+    padding-left: 42px;
+}
+
+.containerourspace {
+    display: flex;
+    justify-content: center;
+}
+
+.sponsors {
+    font-size: 50px;
+    font-weight: 700;
+}
+.imggoogle{
+    height: 37px;
+    width: 142px;
+    margin-top: 55px;
+}
+.boxsenci {
+    height: 350px;
+    width: 580px;
+    background-color: unset;
+    color: white;
+    padding-left: 45px;
+
+}
+
+.containersendi {
+    height: 470px;
+    background-color: #043873;
+    display: flex;
+    justify-content: center;
+    padding-top: 8rem;
+    margin-top: 90px;
+
+}
+
+.Get2 {
+    color: white;
+    font-size: 47px;
+    font-weight: 700;
+}
+.software2{
+    margin-top: 18px;
+}
+
+.container789 {
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+
+.container1020 {
+    display: flex;
+    justify-content: center;
+}
+
+.clints {
+    font-size: 55px;
+    font-weight: 700;
+    color: #212529;
+    margin-top: 23px;
+}
+
+.box1209 {
+    height: 350px;
+    width: 350px;
+    background-color: #4F9CF9;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px;
+
+}
+
+.box1230 {
+    height: 175px;
+    width: 300px;
+    background-color: unset;
+    position: relative;
+    top: 30px;
+    left: 24px;
+    border-bottom: 1px solid black;
+
+}
+
+.heade {
+    color: white;
+    font-size: 14px;
+    font-weight: 1;
+    position: relative;
+    bottom: 2px;
+}
+
+.box123 {
+    height: 175px;
+    width: 300px;
+    background-color: unset;
+    position: relative;
+    top: 30px;
+    left: 24px;
+    border-bottom: 1px solid white;
+    color: white;
+}
+
+.box1208 {
+    height: 350px;
+    width: 350px;
+    background-color: unset;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px;
+
+}
+
+.container6780 {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 55px;
+}
+
+.container3467 {
+    display: flex;
+    justify-content: center;
+}
+
+.containerimg {
+    display: flex;
+}
+
+.Oberon {
+    font-size: 21px;
+    padding-left: 10px;
+    padding-top: 60px;
+}
+
+.avtar1 {
+    height: 60px;
+    width: 60px;
+    padding-top: 75px;
+    position: relative;
+    right: 25px;
+}
+
+.head {
+    font-size: 14px;
+    font-weight: 1;
+    position: relative;
+    bottom: 1px;
+}
+
+.america {
+    position: relative;
+    bottom: 10px;
+}
+
+.container000 {
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+
+}
+
+.box000 {
+    height: 12px;
+    width: 12px;
+    background-color: #4F9CF9;
+    margin-top: 61px;
+    border-radius: 50%;
+}
+
+.box00 {
+    height: 12px;
+    width: 12px;
+    background-color: #043873;
+    margin-top: 61px;
+    border-radius: 50%;
+}
+
+.containerf {
+    height: 650px;
+    background-color: #043873;
+    margin-top: 7rem;
+    display: flex;
+    justify-content: center;
+}
+
+.box34f {
+    height: 520px;
+    width: 500px;
+    background-color: unset;
+    position: relative;
+    top: 4rem;
+}
+
+.today {
+    font-size: 50px;
+    font-weight: 700;
+    color: white;
+    padding: 68px;
+}
+
+.today2 {
+    padding-left: 7rem;
+}
+
+.containerh1 {
+    display: flex;
+    justify-content: center;
+}
+
+.containerp {
+    display: flex;
+    justify-content: center;
+}
+
+.started {
+    font-size: 24px;
+    font-weight: 400;
+    position: relative;
+    bottom: 58px;
+    color: white;
+}
+
+.onece {
+    padding-left: 7rem;
+}
+
+.btntyr {
+    padding: 20px 40px 20px 40px;
+    border-radius: 8px;
+    background-color: #4F9CF9;
+    border: 1px solid #4F9CF9;
+    color: white;
+}
+
+.containerbtn1 {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 3rem;
+}
+
+.containerparagarph {
+    display: flex;
+    justify-content: center;
+}
+
+.teamcont {
+    font-size: 24px;
+    font-weight: 400;
+    color: white;
+    position: relative;
+    bottom: 2.5rem;
+}
+
+.containericon {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 40px;
+    gap: 35px;
+}
+
+.icon333 {
+    width: 60px;
+    height: 60px;
+    color: white;
+}
+
+.containeronef {
+    background-color: #043873;
+
+}
+
+.boxfooter {
+    height: 190px;
+    width: 200px;
+    background-color: unset;
+    color: white;
+}
+
+.containeronef {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 22px;
+}
+
+.productst {
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.Overview {
+    position: relative;
+    bottom: 20px;
+
+
+}
+
+.Overvie {
+    position: relative;
+    bottom: 20px;
+
+    color: #FFE492;
+}
+
+.addyour1 {
+    position: relative;
+    bottom: 12px;
+}
+
+.btnlast1 {
+    padding: 16px 34px;
+    border-radius: 8px;
+    background-color: #4F9CF9;
+    border: 1px solid #4F9CF9;
+    color: white;
+    position: relative;
+    bottom: 8px;
+}
+
+.containerlast12 {
+    height: 73px;
+    background-color: #043873;
+    display: flex;
+    justify-content: center;
+}
+
+.boxlast12 {
+    height: 70px;
+    width: 1050px;
+    background-color: unset;
+    border-top: 1px solid gray;
+}
+
+.boxlast12 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+
+.box88809 {
+    display: flex;
+    gap: 25px;
+}
+
+.icon323 {
+    position: relative;
+    top: 4px;
+}
+
+.icon322 {
+    position: relative;
+    top: 2px;
+}

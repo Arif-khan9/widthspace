@@ -1,0 +1,280 @@
+
+
+ @media (max-width: 90em) {
+    .header-text-box{
+      height: 40px;
+      width: 40px;
+    }
+  } 
+  
+   
+   @media (max-width: 64em) {
+    .product{
+      position: relative;
+      right: 40px;
+     }
+     .icon1{
+      padding-left: 30px;
+     }
+     .btn1{
+      margin-right: 20px;
+     }
+    
+     .boxsent{
+       height: 400px;
+       width: 400px;
+       margin-top: 30px;
+     }
+     .box555{
+       font-size: 14px;
+     }
+     .box55c{
+       font-size: 15px;
+     } 
+     .header{
+        display: flex;
+          position: relative;
+          left: 0px;
+     }
+     .btn{
+      display: flex;
+     }
+     .logo{
+      display: flex;
+     }
+     .product{
+      position: relative;
+      left: 30px;
+     }
+ 
+      }
+      
+  
+  @media (max-width: 48em){
+    .container{
+     font-size: 0px;
+     gap: 2px;
+    }
+    .boxsenc{
+     
+      height: 300px;
+      width: 300px;
+      font-size: 18px;
+    }
+    .boxsent{
+      height: 300px;
+      width: 300px;
+    }
+    .Get{
+      font-size: 18px;
+    }
+    .Get1{
+      font-size: 18px;
+    }
+    .boxsents{
+      height: 300px;
+      width: 300px;
+    }
+    .img{
+      height: 300px;
+      width: 300px;
+    }
+    .box555{
+      font-size: 9px;
+    }
+    .box55c{
+      font-size: 9px;
+    } 
+    .everywhere{
+      font-size: 24px;
+    }
+    .notes{
+      font-size: 12px;
+    }
+    .imggoogle{
+     height: 40px;
+     height: 20px;
+    }
+    .sponsors{
+      font-size: 50px;
+    }
+    .Get2{
+      font-size: 18px;
+    }
+    .clints{
+      font-size: 40px;
+    }
+    .box1208{
+      height: 200px;
+      width: 200px;
+    }
+    .box1209{
+      height: 200px;
+      width: 200px;
+    }
+    .quote{
+      height: 43px;
+      width: 43px;
+    }
+    .quot{
+      height: 43px;
+      width: 43px;
+    }
+    .whitep{
+      font-size: 9px;
+    }
+    
+    .container3467{
+      font-size: 10px;
+      height: 70px;
+      width: 80px;
+      position: relative;
+      bottom: 9rem;
+      left: 25px;
+    }
+    .Oberon{
+      font-size: 12px;
+      position: relative;
+      bottom: 3rem;
+      /* color: green; */
+    }
+    .box123{
+      /* background-color: aqua; */
+      height: 90px;
+      width: 150px;
+    }
+    .box1230{
+      /* background-color: aqua; */
+      height: 90px;
+      width: 150px;
+    }
+    .container3467{
+      /* background-color: blue; */
+      position: relative;
+      top: 2rem;
+      height: 70px;
+      width: 150px;
+    }
+    .avtar1{
+      position: relative;
+      bottom: 50px;
+      left: 3px;
+      height: 25px;
+      width: 25px;
+    }
+    .heade{
+      color: black;
+      font-size: 8px;
+    }
+    .head{
+      color: black;
+      font-size: 8px;
+    }
+    .containeronef{
+      font-size: 10px;
+    }
+    .logo{
+      font-size: 23px;
+      position: relative;
+      top: 14px;
+    }
+    .anyway{
+      position: relative;
+      top: 18px;
+    }
+    .btnlast1{
+      padding: 12px 10px;
+    }
+    .product{
+      display: none;
+    }
+    
+  }
+  @media (max-width: 27em){
+    .btn{
+      display: none;
+
+    }
+    .containersend{
+      flex-direction: column;
+      align-items: center;
+     
+    }
+    
+    
+    .boxsent{
+      margin-top: 6rem;
+    }
+    .containersendo{
+      flex-direction: column;
+      align-items: center;
+    }
+    .container555{
+      flex-direction: column;
+      align-items: center;
+    }
+    .containersendi{
+      flex-direction: column;
+      align-items: center;
+    }
+    .container6780{
+      flex-direction: column;
+      align-items: center;
+    }
+    .containerh1{
+      font-size: 20px;
+    }
+    .today{
+      font-size: 22px;
+      position: relative;
+      bottom: 20px;
+    }
+    .started{
+      font-size: 20px;
+    }
+    .containeronef{
+      flex-direction: column;
+      align-items: center;
+
+    }
+    
+    .boxlast12{
+      flex-direction: column;
+      background-color: red;
+     align-items: center;
+     display: none;
+    }
+    .boxsenci{
+      height: 200px;
+      width: 300px;
+      position: relative;
+      bottom: 45px;
+    }
+    .iconmenu{
+      display: block;
+    }
+    .header{
+      display: none;
+    }
+    
+  }
+  @media (max-width: 72em){
+        .header{
+          display: none;
+        }
+        .iconmenu{
+          display: block;
+          margin-left: 19rem;
+         position: absolute; 
+        }
+        .btn{
+         position: relative;
+         right: 45px;
+        }
+        
+  }
+    
+  
+ 
+ 
+  
